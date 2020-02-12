@@ -8,7 +8,7 @@ import "fmt"
 func main() {
   var tank float64
   fmt.Println("How many gallons of gas is in your gas tank?")
-  //asks how many gallons in a tank
+  //Asks how many gallons in a tank
   fmt.Scan(&tank)
   var miles float64
   fmt.Println("How many miles did you go until you ran out of gas?")
